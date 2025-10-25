@@ -55,7 +55,7 @@ except Exception as e:
     print("Exiting.")
     sys.exit(1)
 
-# ---------------------------------
+
 
 def extract_metadata_from_filename(pdf_filename):
     """Extracts year and subject from the PDF filename."""
@@ -68,10 +68,6 @@ def extract_metadata_from_filename(pdf_filename):
 
 # --- REPLACED FUNCTION ---
 def get_topic_tags(question_text):
-    """
-    Assigns topic tags using a pre-trained SBERT+XGBoost model.
-    Relies on globally loaded 'sbert_model', 'xgb_model', and 'mlb'.
-    """
     try:
         # 1. Create embedding for the question text.
         # SBERT model expects a list of strings.

@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExamVault - Your Intelligent Exam Question Bank</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .gradient-text {
+            background: linear-gradient(135deg, #60a5fa, #a855f7);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-200 min-h-screen">
+    <!-- Header -->
+    <header class="sticky top-0 z-50 bg-gray-900/80 backdrop-blur-md border-b border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16">
+                <div class="flex items-center">
+                    <h1 class="text-2xl font-bold gradient-text">ExamVault</h1>
+                </div>
+                <nav class="flex space-x-8">
+                    <a href="/" class="text-blue-400 font-semibold">Home</a>
+                    <a href="/search.html" class="text-gray-300 hover:text-blue-400 transition-colors">Question Search</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <!-- View 1: Main Content -->
+        <div id="main-content">
+            <!-- Hero Section -->
+            <div class="text-center mb-12">
+                <h2 class="text-4xl md:text-5xl font-bold text-white mb-6">Welcome to ExamVault</h2>
+                <p class="text-lg text-gray-300 max-w-4xl mx-auto leading-relaxed">
+                    Stop digging through PDFs. PYQuery is an AI that finds the exact exam questions you need. 
+                    We use OCR to scan past papers, ML to auto-tag every question by topic, and semantic search (RAG) 
+                    to let you find concepts, not just keywords. It's your university's entire exam history, made intelligent.
+                </p>
+            </div>
+
+            <!-- Subject Grid Section -->
+            <div class="mb-8">
+                <h3 class="text-2xl font-bold text-white mb-8 text-center">Browse Past Papers</h3>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    <!-- ML Card -->
+                    <div class="subject-card bg-gray-800/90 backdrop-blur-sm rounded-xl border border-gray-700 p-6 hover:scale-105 hover:border-blue-400 transition-all cursor-pointer" data-subject="ML">
+                        <div class="text-center">
+                            <div class="w-16 h-16 bg-blue-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                                <span class="text-2xl font-bold text-blue-400">ML</span>
+                            </div>
+                            <h4 class="text-xl font-semibold text-white mb-2">Machine Learning</h4>
+                            <p class="text-gray-400 text-sm">Past papers and questions</p>
+                        </div>
+                    </div>
+
+                    <!-- CN Card -->
+                    <div class="subject-card bg-gray-800/90 backdrop-blur-sm rounded-xl border border-gray-700 p-6 hover:scale-105 hover:border-blue-400 transition-all cursor-pointer" data-subject="CN">
+                        <div class="text-center">
+                            <div class="w-16 h-16 bg-blue-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                                <span class="text-2xl font-bold text-blue-400">CN</span>
+                            </div>
+                            <h4 class="text-xl font-semibold text-white mb-2">Computer Networks</h4>
+                            <p class="text-gray-400 text-sm">Past papers and questions</p>
+                        </div>
+                    </div>
+
+                    <!-- DAA Card -->
+                    <div class="subject-card bg-gray-800/90 backdrop-blur-sm rounded-xl border border-gray-700 p-6 hover:scale-105 hover:border-blue-400 transition-all cursor-pointer" data-subject="DAA">
+                        <div class="text-center">
+                            <div class="w-16 h-16 bg-blue-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                                <span class="text-2xl font-bold text-blue-400">DAA</span>
+                            </div>
+                            <h4 class="text-xl font-semibold text-white mb-2">Design and Analysis of Algorithms</h4>
+                            <p class="text-gray-400 text-sm">Past papers and questions</p>
+                        </div>
+                    </div>
+
+                    <!-- DAV Card -->
+                    <div class="subject-card bg-gray-800/90 backdrop-blur-sm rounded-xl border border-gray-700 p-6 hover:scale-105 hover:border-blue-400 transition-all cursor-pointer" data-subject="DAV">
+                        <div class="text-center">
+                            <div class="w-16 h-16 bg-blue-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                                <span class="text-2xl font-bold text-blue-400">DAV</span>
+                            </div>
+                            <h4 class="text-xl font-semibold text-white mb-2">Data Analytics and Visualization</h4>
+                            <p class="text-gray-400 text-sm">Past papers and questions</p>
+                        </div>
+                    </div>
+
+                    <!-- CVDL Card -->
+                    <div class="subject-card bg-gray-800/90 backdrop-blur-sm rounded-xl border border-gray-700 p-6 hover:scale-105 hover:border-blue-400 transition-all cursor-pointer" data-subject="CVDL">
+                        <div class="text-center">
+                            <div class="w-16 h-16 bg-blue-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                                <span class="text-2xl font-bold text-blue-400">CVDL</span>
+                            </div>
+                            <h4 class="text-xl font-semibold text-white mb-2">Computer Vision and Deep Learning</h4>
+                            <p class="text-gray-400 text-sm">Past papers and questions</p>
+                        </div>
+                    </div>
+
+                    <!-- NLC Card -->
+                    <div class="subject-card bg-gray-800/90 backdrop-blur-sm rounded-xl border border-gray-700 p-6 hover:scale-105 hover:border-blue-400 transition-all cursor-pointer" data-subject="NLC">
+                        <div class="text-center">
+                            <div class="w-16 h-16 bg-blue-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                                <span class="text-2xl font-bold text-blue-400">NLC</span>
+                            </div>
+                            <h4 class="text-xl font-semibold text-white mb-2">Natural Language Computing</h4>
+                            <p class="text-gray-400 text-sm">Past papers and questions</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- View 2: PDF List -->
+        <div id="pdf-list-view" class="hidden">
+            <button id="back-to-home" class="flex items-center text-blue-400 hover:text-blue-300 mb-6 transition-colors">
+                <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                </svg>
+                Back to Home
+            </button>
+            <h2 id="pdf-list-title" class="text-3xl font-bold text-white mb-6"></h2>
+            <div id="pdf-list-container"></div>
+        </div>
+
+        <!-- View 3: PDF Viewer -->
+        <div id="pdf-viewer-view" class="hidden">
+            <button id="back-to-list" class="flex items-center text-blue-400 hover:text-blue-300 mb-6 transition-colors">
+                <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                </svg>
+                Back to List
+            </button>
+            <div id="pdf-embed-container" class="w-full h-[85vh] bg-gray-800 rounded-lg border border-gray-700"></div>
+        </div>
+    </main>
+
+    <script>
+        // Mock PDF Database - matches the file structure served by Flask
+        const mockPdfDatabase = {
+            "ML": [
+                { name: "Machine Learning 2021", path: "/question_paper_bank/ML/2CS501_Machine_Learning_2021_1.pdf" },
+                { name: "Machine Learning 2022-1", path: "/question_paper_bank/ML/2CS501_Machine_Learning_2022_1.pdf" },
+                { name: "Machine Learning 2022-2", path: "/question_paper_bank/ML/2CS501_Machine_Learning_2022_2.pdf" },
+                { name: "Machine Learning 2022-3", path: "/question_paper_bank/ML/2CS501_Machine_Learning_2022_3.pdf" },
+                { name: "Machine Learning 2022-4", path: "/question_paper_bank/ML/2CS501_Machine_Learning_2022_4.pdf" },
+                { name: "Machine Learning 2022-5", path: "/question_paper_bank/ML/2CS501_Machine_Learning_2022_5.pdf" },
+                { name: "Machine Learning 2023-1", path: "/question_paper_bank/ML/2CS501_Machine_Learning_2023_1.pdf" },
+                { name: "Machine Learning 2023-2", path: "/question_paper_bank/ML/2CS501_Machine_Learning_2023_2.pdf" },
+                { name: "Machine Learning 2024", path: "/question_paper_bank/ML/3CS101CC24_Machine_Learning_2024_1.pdf" },
+                { name: "Machine Learning 2025-1", path: "/question_paper_bank/ML/3CS101CC24_Machine_Learning_2025_1.pdf" },
+                { name: "Machine Learning 2025-2", path: "/question_paper_bank/ML/3CS101CC24_Machine_Learning_2025_2.pdf" }
+            ],
+            "CN": [
+                // This subject has no papers in the current structure
+            ],
+            "DAA": [
+                // This subject has no papers in the current structure
+            ],
+            "CVDL": [
+                // This subject has no papers in the current structure
+            ],
+            "DAV": [
+                // This subject has no papers in the current structure
+            ],
+            "NLC": [
+                // This subject has no papers in the current structure
+            ]
+        };
+
+        // Subject name mapping
+        const subjectNames = {
+            "ML": "Machine Learning",
+            "CN": "Computer Networks", 
+            "DAA": "Design and Analysis of Algorithms",
+            "DAV": "Data Analytics and Visualization",
+            "CVDL": "Computer Vision and Deep Learning",
+            "NLC": "Natural Language Computing"
+        };
+
+        // DOM References
+        const mainContent = document.getElementById('main-content');
+        const pdfListView = document.getElementById('pdf-list-view');
+        const pdfViewerView = document.getElementById('pdf-viewer-view');
+        const backToHomeBtn = document.getElementById('back-to-home');
+        const backToListBtn = document.getElementById('back-to-list');
+        const pdfListTitle = document.getElementById('pdf-list-title');
+        const pdfListContainer = document.getElementById('pdf-list-container');
+        const pdfEmbedContainer = document.getElementById('pdf-embed-container');
+
+        // Event Listeners
+        document.addEventListener('DOMContentLoaded', function() {
+            // Add click listeners to subject cards
+            const subjectCards = document.querySelectorAll('.subject-card');
+            subjectCards.forEach(card => {
+                card.addEventListener('click', function() {
+                    const subject = this.getAttribute('data-subject');
+                    showPdfList(subject);
+                });
+            });
+
+            // Back button listeners
+            backToHomeBtn.addEventListener('click', function() {
+                pdfListView.classList.add('hidden');
+                mainContent.classList.remove('hidden');
+            });
+
+            backToListBtn.addEventListener('click', function() {
+                pdfViewerView.classList.add('hidden');
+                pdfListView.classList.remove('hidden');
+            });
+        });
+
+        function showPdfList(subjectCode) {
+            // Hide main content and show PDF list
+            mainContent.classList.add('hidden');
+            pdfListView.classList.remove('hidden');
+
+            // Set title
+            pdfListTitle.textContent = `${subjectNames[subjectCode]} Papers`;
+
+            // Get papers for this subject
+            const papers = mockPdfDatabase[subjectCode];
+
+            // Clear container
+            pdfListContainer.innerHTML = '';
+
+            if (papers.length === 0) {
+                pdfListContainer.innerHTML = '<p class="text-gray-400 text-center py-8">No papers available for this subject yet.</p>';
+                return;
+            }
+
+            // Render paper buttons
+            papers.forEach(paper => {
+                const paperButton = document.createElement('button');
+                paperButton.className = 'w-full bg-gray-800/90 backdrop-blur-sm rounded-xl border border-gray-700 p-4 mb-4 hover:border-blue-400 hover:bg-gray-700/90 transition-all text-left';
+                paperButton.innerHTML = `
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <h4 class="text-lg font-semibold text-white mb-1">${paper.name}</h4>
+                            <p class="text-gray-400 text-sm">Click to view PDF</p>
+                        </div>
+                        <svg class="w-5 h-5 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                        </svg>
+                    </div>
+                `;
+                paperButton.setAttribute('data-path', paper.path);
+                
+                // Add click listener
+                paperButton.addEventListener('click', function() {
+                    const path = this.getAttribute('data-path');
+                    showPdfViewer(path);
+                });
+
+                pdfListContainer.appendChild(paperButton);
+            });
+        }
+
+        function showPdfViewer(pdfPath) {
+            // Hide PDF list and show PDF viewer
+            pdfListView.classList.add('hidden');
+            pdfViewerView.classList.remove('hidden');
+
+            // Set the PDF embed
+            pdfEmbedContainer.innerHTML = `<embed src="${pdfPath}" type="application/pdf" class="w-full h-full rounded-lg">`;
+        }
+    </script>
+</body>
+</html>
