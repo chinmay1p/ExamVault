@@ -1,0 +1,1739 @@
+[
+  {
+    "subject": "Machine Learning",
+    "year": "2021",
+    "question_text": "  B. Tech. in Computer Science and Engineering, Semester-V 2CSS01 Machine Learning Roll/ Supervisor\u2019s initial Exam No. with date Time: 2:00 Hours Max. Marks: 50 Instructions: 1. Attempt all questions.  ",
+    "image_path": "question_bank_ocr/images/2021_MachineLearning_1_0__b_tech_in_computer_science.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2021_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2021",
+    "question_text": "2. Figures to right indicate full marks.",
+    "image_path": "question_bank_ocr/images/2021_MachineLearning_1_1_2_figures_to_right_indicate_f.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2021_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2021",
+    "question_text": "3. Draw neat sketches wherever necessary.",
+    "image_path": "question_bank_ocr/images/2021_MachineLearning_1_2_3_draw_neat_sketches_wherever.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2021_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2021",
+    "question_text": "    4. Make suitable assumptions wherever necessary. Q.1 Answer the following questions: [10] (a) CLO:1 What is the need of pre-processing of the data? A data scientist [05] uses Naive Bayes, Decision tree, Logistic Regression and ANN for predicting if it will rain tomorrow or not. Initially he forgets to scale the data and applies all the mentioned algorithm and then he scales and apply the same algorithms again. Which of the four will show improvement in terms of time and in terms of output? Explain with reason. (b) CLO:2 Consider one neuron Artificial Neural Network. Suppose that the [05] weights corresponding to the three inputs have the following values: W1= 2, W2= -4, W3=1, and the activation of the unit is given by the step-function: { 1 0 otherwise Calculate what will be the output value y of the unit for each of the following input patterns: Pattern Pi P2 P3 P4 0 1 1 1 0 1 1 1 1",
+    "image_path": "question_bank_ocr/images/2021_MachineLearning_1_3__4_make_suitable_assumptio.png",
+    "topics": [
+      "Data Preprocessing",
+      "Scaling",
+      "Supervised Learning",
+      "Classification",
+      "Naive Bayes",
+      "Decision Trees",
+      "Regression",
+      "Neural Networks",
+      "Perceptron",
+      "Activation Function"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2021_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2021",
+    "question_text": "Q.2 Answer the following questions: [15] (a) Identify and describe briefly (2 lines) an application for the [05] following machine learning techniques: 1) Linear Discriminant Analysis 2) Logistic Regression 3) Reinforcement Learning 4) Hierarchical Clustering 5) Convolution Neural Networks Page 1 of 3",
+    "image_path": "question_bank_ocr/images/2021_MachineLearning_1_4_q_2_answer_the_following_quest.png",
+    "topics": [
+      "Dimensionality Reduction",
+      "LDA",
+      "Regression",
+      "Classification",
+      "Reinforcement Learning",
+      "Unsupervised Learning",
+      "Clustering",
+      "Hierarchical Clustering",
+      "Neural Networks",
+      "CNN"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2021_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2021",
+    "question_text": "Q.3 (a) Ca) CLO:2 Answer the following questions: Differentiate between a. self organizing maps and artificial neural network. b. K-means clustering and K-medoid clustering. OR Answer the following questions based on a competitive learning neural network as shown in the figure below which is used to classify the airplane based on the size, speed and passenger capacity. [04]     Initial weights of the output nodes are:         [10] [04] [04]",
+    "image_path": "question_bank_ocr/images/2021_MachineLearning_2_0_q_3_a_ca_clo_2_answer_the_f.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Neural Networks",
+      "SOM",
+      "Clustering",
+      "K-Means Clustering",
+      "K-Medoids Clustering",
+      "Competitive Learning"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2021_1.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2021",
+    "question_text": "a. How many type of planes can this network classify?",
+    "image_path": "question_bank_ocr/images/2021_MachineLearning_2_1_a_how_many_type_of_planes_can.png",
+    "topics": [
+      "Neural Networks",
+      "Competitive Learning",
+      "Classification",
+      "Unsupervised Learning"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2021_1.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2021",
+    "question_text": "(b) b. Which node will be the winner if the input vector is (1,5,1)? CLO:2 Take 10 points in two dimensions having coordinate values as: A: (2,10), B:(3,5), C:(2,2), D:(4,5), E:(2,6), F:(10,15), G:(12,14), Page 2 of 3 [06]",
+    "image_path": "question_bank_ocr/images/2021_MachineLearning_2_2__b_b_which_node_will_be_the_.png",
+    "topics": [
+      "Neural Networks",
+      "Competitive Learning",
+      "Unsupervised Learning",
+      "Clustering",
+      "Hierarchical Clustering"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2021_1.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "B. Tech. in Computer Science and Engineering, Semester-V 2CSS01 Machine Learning   Roll / Supervisor\u2019s Exam initial with No. date Time: 3 Hours Max. Marks: 100 Instructions: 1. Attempt all questions. Use section-wise separate answer book.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_0_b_tech_in_computer_science_a.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "2. Figures to right indicate full marks,",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_1_2_figures_to_right_indicate_f.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "3. Draw neat sketches wherever necessary.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_2_3_draw_neat_sketches_wherever.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "4. Assume suitable data wherever applicable and clearly mention them. . CLO_ and BL_ have been men tioned against each question to map it as per Course Learning Objective and Bloom\u2019s taxonomy. SECTION I Q1A_ Use competitive learning neural network to cluster 6, three- [10] dimensional data points (1.1 1.7 1.8), (00 0), (0 0.5 1.5), (10 (0.5 0.5 0.5), (1 1 1) into 3 clusters. Assume initial cluster centroids to be (0.2 0.7 0.4), (0.1 0.2 0.9), (1 1 1.1) and learning rate to be 0.25. Report cluster centroids after 1 round/epoch of execution. OR Q1A_ Both k-means and hierarchical clustering algorithms can [10] CLO2 perform effective clustering. Illustrate the Strength and BL3 of these algorithms. Write algorithms for k-means and hierarchical agglomerative clustering, Q1B Discuss self-training algorithm for learning from labelled and [8] CLO2 unlabelled data. Also discuss 2-step approach for learning BL2 from positive and unlabelled data. How are these algorithms used at training and inference time? Q2A What is reinforcement learning? Which are different [6] CLO2 implementation approaches for reinforcement learning BL2 algorithms? Discuss Q-learning algorithm in detail. Q2B Assume a 3-2-1 feed-forward fully connected neural network [12] CLO3 (3 neurons in the input layer denoted as neuron 1, 2 and 3, BL3 neurons in the hidden layer denoted as neuron 4 and 5, and 1 neuron in the output layer denoted as neuron 6). Assume that the activation function of all the neurons in the hidden and output layers is log-sigmoid. Neurons in the hidden layer and output layer also have bias connection. Consider following table for the initial value of parameters. | w34 | W15 W25 | W35 | w46 | W561 | | | 01/04 0.2 W14 is the weight of the connection between neuron 1 and 4. b4 is the weight of the bias connection of neuron 4. Other notations can be understood in the same way. Assume Page 1 of 3                  ",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_3_4_assume_suitable_data_wherev.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Clustering",
+      "Competitive Learning",
+      "Neural Networks",
+      "K-Means Clustering",
+      "Hierarchical Clustering",
+      "Semi-Supervised Learning",
+      "Reinforcement Learning",
+      "Q-Learning",
+      "Supervised Learning"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "B. Tech. in Computer Science and Engineering, Semester-V 2CS501 Machine Learning Roll / Supervisor\u2019s initial Exam No. with date Time: 2:00 Hours Max. Marks: 50 Instructions: 1. Attempt all questions.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_0_b_tech_in_computer_science_a.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "2. Figures to right indicate full marks. 3, Draw neat sketches wherever necessary.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_1_2_figures_to_right_indicate_f.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "4. Make suitable assumptions wherever necessary.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_2_4_make_suitable_assumptions_w.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "  Q.1 Answer the following questions: [10] (a Consider the two groups of data points (circles and squares) as shown in [05] Figure below. Use SVM kernel function, using the transformation function \u00ae, to find hyper plane equation. 2 6- x, + (x, i 7 x | 2 o/ ' + x b | otherwise Transform the points circle and square and plot it in the new feature space. (b) Define the terms [05]",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_3__q_1_answer_the_following_que.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "SVM",
+      "Kernels",
+      "Hyperplane",
+      "Non-linear SVM"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "i) Indicators of overfitting and underfitting ii) Regularization and its applications",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_4_i_indicators_of_overfitting_a.png",
+    "topics": [
+      "Model Evaluation",
+      "Overfitting",
+      "Underfitting",
+      "Regularization",
+      "Bias-Variance"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "(b) Q.2 Answer the following questions: [15] (a Which ML algorithm will you use in following situation explain with proper [05] justification? (i) Predicting will it rain or not based on wind speed, temperature, humidity in air. (ii) Predicting price of the house based on size, age of the house, distance from the main city. Given data as in table below. Assuming that the (0 = (4 (no intercept) , [05] also the cost function is given as }(Q = 1/2my#o7- Plot against 0 for {0,1,2,3,4).     Page 1 of 3",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_5__b_q_2_answer_the_following_q.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "Regression",
+      "Model Selection",
+      "Cost Function"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "Q.3 (a) (a) Answer the following questions: [15] What are different loss functions? How to choose a loss function given a [05] problem? Explain the same with appropriate example. Write differences between [O5]",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_2_0_q_3_a_a_answer_the_followi.png",
+    "topics": [
+      "Model Evaluation",
+      "Loss Function",
+      "Optimization",
+      "Model Selection"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_2.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "a. Self-organizing Maps and Artificial Neural networks",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_2_1_a_self_organizing_maps_and_ar.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Neural Networks",
+      "SOM",
+      "Supervised Learning"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_2.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "(b) b. Gradient descent and Normal equation for regression The network shown in figure below , when properly trained should respond [10] with O:) {0.95 Os | To the argument input pattern a | fi) AD jer | 3 i    The network weights have been initialized as shown in the figure. Analyze a single feed forward and back propagation step for the initialized network by doing the following: (a) Find weight matrices. (b) Calculate output at each neuron. Page 2 of 3",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_2_2__b_b_gradient_descent_and_no.png",
+    "topics": [
+      "Supervised Learning",
+      "Regression",
+      "Optimization",
+      "Gradient Descent",
+      "Normal Equation",
+      "Neural Networks",
+      "Feed-forward",
+      "Backpropagation"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_2.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "Q.4 Answer the following questions: [10] (a) Assume training tuples: (85, 85, No), (71, 80, No), (75, 50, Yes), (60, [O5] 80, Yes), (72, 3, Yes). The last value in each tuple is the class to which the tuple belongs. Using distance/similarity-weighted 3-NN, predict the class of the tuple (72, 75). Assume cosine similarity as the similarity/distance measure. (b) Use Naive Bayes Algorith for predicting the class for X = foutlook: [O5] sunny, temperature: mild, humidity: normal, windy: Outlook Temperature Humidity Windy sunny    sunny overcast rainy normal rainy normal overcast normal sunny high sunny normal rainy normal sunny normal overcast high overcast normal rainy high RK RK RRR Page 3 of 3",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_3_0_q_4_answer_the_following_quest.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "K-NN",
+      "Cosine Similarity",
+      "Naive Bayes"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_2.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "B. Tech. in Computer Science and Engineering, Semester-V 2CS501 Machine Learning Roll / Supervisor\u2019s initial Exam No. with date Time: 2 Hours Max. Marks: 50   Instructions: i. Attempt all questions.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_0_b_tech_in_computer_science_a.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_3.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "2. Figures to right indicate full marks.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_1_2_figures_to_right_indicate_f.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_3.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "3. Draw neat sketches wherever necessary.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_2_3_draw_neat_sketches_wherever.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_3.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "4. Make suitable assumptions wherever necessary.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_3_4_make_suitable_assumptions_w.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_3.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "Q.1 Answer the following questions: [20] (a) A dietetic student wants to look at the relationship between calcium [08] CLO1 intake and knowledge about calcium in science students. Following table shows data collected by student. Using statistical approach, find linear relation between knowledge about and calcium intake in sports science students. Knowledge score | Calcium Intake                         (b) Consider the training data in the following table where Play is a class [O06] CLO3 attribute. In the table, the Humidity attribute has values \u201cL\u201d (for low) or \u201cH\u201d (for high), Sunny has values \u201cY\u201d (for yes) or \u201cN\u201d (for no), Wind has values \u201cS\u201d (for strong) or \u201cW\u201d (for weak), and Play has values \u201cYes\u201d or \u201cNo\u201d. What is class label for the following day (Humidity=L, Sunny=N, Wind=W}, according to naive Bayesian classification?                   | Sunny | Wind Play | N | 8 NO | | N | Wl | Y | YES | H | N | Ww if ee cf y {| No {c} Define following machine learning techniques and give its real life [06] CLO3 applications techniques: Page 1 of 2",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_4_q_1_answer_the_following_quest.png",
+    "topics": [
+      "Supervised Learning",
+      "Regression",
+      "Linear Regression",
+      "Classification",
+      "Naive Bayes"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_3.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "Q.2 (a) CLO2 (a) CLO2 (b) CLO3 (b) CLO3 (c) CLO2 CLO3 (b) CLO] (c) CLOI Answer the following questions: Take 10 points in two dimensions having coordinate values as: A: [06] (2,10), B:(3,5), C:(2,2), D:(4,5), E:(2,6), F:(10,15), G:(12,14), H:(14,11]), 1:(13,13), J:(15,12). Use hierarchical clustering to cluster them also prepare dendograms. Use min distance to update the distance between the clusters. OR Supervised learning is a learning paradigm where the model is given a [06] labelled data and the outcome is the learned model. A user is lraining Naive Bayes and ANN using the same training data. The training data is Iris data with 150 instances and three class and hence first 50 instance belongs to Class-I followed by 50 instances of Class-II and finally 50 instances of class-III. The user trains both the model with shuffling and without shuffling the sequence of training instances. What will be the difference in the outcome in both the models and both the options? Explain with proper reasons. Use linear SVM to find hyper plane equation using support vectors [08] s1=(0,1), s2=(0,-1), s3=(2,0). Here s1 and s2 represents negative class and s3 represents positive class. OR Which type of artificial neural network is needed to classify non-linearly separable data? How backpropogation updates the network parameters? Explain with suitable example. Find out accuracy, error rate, sensitivity, specificity, Fl score using the [06] below given confusion matrix. Which evaluation measure help to identify the imbalance in the dataset?   |    Predicted class Yes          Actual class     Answer the following questions: [10] In a housing price prediction regression problem, there are three [04| attributes Al, A2, and A3 and the dependent variable is Y (housing price), There are 100 instances and after using gradient descent algorithm the learnt coefficient are [89 61 82 3 |= [1.2, -0.3, 1.1, 0.003]. Later it was revealed that the attribute names are size of the house, age of the house and height of the owner. Match the attributes Al, A2 and A3 with attribute names: size of the house, age of the house and height of the owner with proper justification. How linear discriminant analysis helps in dimensionality reduction? {04} Give proper example. Which are the assumptions considered in Naive Bayes classification? Page 2 of 2",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_2_0_q_2_a_clo2_a_clo2_b_clo3.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Clustering",
+      "Hierarchical Clustering",
+      "Dendrogram",
+      "Supervised Learning",
+      "Classification",
+      "Naive Bayes",
+      "Neural Networks",
+      "Data Preprocessing",
+      "SVM",
+      "Hyperplane",
+      "Backpropagation",
+      "Evaluation Metrics",
+      "Confusion Matrix",
+      "Regression",
+      "Feature Interpretation",
+      "Dimensionality Reduction",
+      "LDA"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_3.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "B. Tech. CSE Semester- V 2CS501, MACHINE LEARNING Roll / Supervisor\u2019s initial Exam No. with date Time: 3 Hours Max. Marks: 100     Instructions: 1. Attempt all questions.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_0_b_tech_cse_semester_v_2cs50.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_4.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "2. Figures to right indicate full marks.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_1_2_figures_to_right_indicate_f.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_4.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "3. Draw neat sketches wherever necessary.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_2_3_draw_neat_sketches_wherever.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_4.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "4. Make suitable assumptions wherever necessary. SECTION I Q.1 Answer the following questions: [16]",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_3_4_make_suitable_assumptions_w.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_4.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "A. Explain the following machine learning methods with suitable [10] CoO2 examples: a. Deep Learning b. Linear Discriminant Analysis c. Principle Component Analysis Recurrent Neural Network Given the set of values X = (3, 7, 12, 5, 2)? and Y = (2, 9, 11, 4, [06] Evaluate the linear regression coefficients.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_4_a_explain_the_following_machi.png",
+    "topics": [
+      "Neural Networks",
+      "Deep Learning",
+      "RNN",
+      "Dimensionality Reduction",
+      "LDA",
+      "PCA",
+      "Supervised Learning",
+      "Regression",
+      "Linear Regression"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_4.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "Q.2 Answer the following questions: [16]",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_5_q_2_answer_the_following_quest.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_4.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "A. Consider a cricket game between two rival teams: Team A and Team [10] CO3 B. Suppose Team A wins 90% of the time and Team B wins the remaining matches. Among the games won by Team A, only 20% of them come from playing on Team B's cricket field. On the other hand, 70% of the victories for Team B are obtained while playing at home. If Team B is to host the next match between the two teams, which team will most likely emerge as the winner?",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_6_a_consider_a_cricket_game_bet.png",
+    "topics": [
+      "Probability",
+      "Bayes Theorem",
+      "Classification"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_4.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "B. Define Competitive Neural Network. Explain the working of self- [06] CO1,2 organizing map-based learning with a suitable example.",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_7_b_define_competitive_neural_n.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Neural Networks",
+      "Competitive Learning",
+      "SOM"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_4.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "Q.3 Answer the following questions: [18]",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_8_q_3_answer_the_following_quest.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_4.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "A. Consider the given data for the sales (in dollars) of Car of an [12] CO3 Automobile Company for 6 consecutive years. [Year | 2013 ae [2015 [2017 {2048 Sales [120 | 250 230          ",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_9_a_consider_the_given_data_for.png",
+    "topics": [
+      "Supervised Learning",
+      "Regression",
+      "Time Series"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_4.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "a. Determine a linear regression model equation to represent this data. b. Plot the equation. c. Based on the above data, predict the sales for next four consecutive years. OR Page 1 of 3",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_10_a_determine_a_linear_regressi.png",
+    "topics": [
+      "Supervised Learning",
+      "Regression",
+      "Linear Regression",
+      "Time Series",
+      "Prediction"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_4.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "A. CO3 CO3 CO3 Consider the two groups of data points (circles and squares) as shown [12] in Figure below. Use non-linear SVM, using the transformation function \u00ae, to find hyper plane equation. x   + (t,-%) + (\") (\") otherwise Classify the point (x;, x2)= (2, 3) , based on the above model. What do you understand by reinforcement learning? Explain the [06] working of Q-learning. Answer the following questions: Consider the following set of training SECTION II examples:         a           [18] [12] What is the entropy of this collection of training examples with respect to the target function classification? ii. What is the information gain of A2 relative to these training examples? OR Show the final result of hierarchical clustering with single linkage by [12] drawing a dendrogram. The value in the matrix represents the Euclidean distance between the points. A O 12 Ol .84 .28 B 0 29 .16 77 61 Cc 0 14 .70 .93 D 45 \u00ab20 E F For the following data tuples compute the values for the True Positive [06] Rate (TPR) and False Positive Rate (FPR) for different cut off values.         Tuple No. | Class_| Probability i P 0.995 2 P 0.980 3 P 0.847     Page 2 of 3",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_2_0_a_co3_co3_co3_consider_the_tw.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "SVM",
+      "Non-linear SVM",
+      "Kernels",
+      "Hyperplane",
+      "Reinforcement Learning",
+      "Q-Learning",
+      "Decision Trees",
+      "Entropy",
+      "Information Gain",
+      "Unsupervised Learning",
+      "Clustering",
+      "Hierarchical Clustering",
+      "Dendrogram",
+      "Evaluation Metrics",
+      "ROC Curve",
+      "TPR",
+      "FPR"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_4.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "Roll / Exam No. Time: 3 Hours B. Tech. in CL / CH / ME / EE, Semester-V 2CSOES1 Machine Learning Supervisor\u2019s initial with date Instructions: 1. Attempt all questions. 2. Figures to right indicate full marks. 3. Use section-wise separate answer book. 4. Draw neat sketches wherever necessary. 5. Assume suitable data wherever necessary. 6. Use of scientific calculator is allowed. SECTION - I Max. Marks: 100",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_0_roll_exam_no_time_3_hours_.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_5.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "Q-1. Answer the following questions. (A) Discuss supervised learning and unsupervised learning with respect to CO3 its\u2019 appropriate application as per your engineering branch. BL2 (B) You are attempting to model the price of cars at auction and you find that your model has trained well, but subsequently does poorly on new data. Explain the reason why? (C) In classification, what is a class imbalance problem and discuss how to CO2 handle this case? BL2 [16] (4) (6) (6)",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_1_q_1_answer_the_following_ques.png",
+    "topics": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Model Evaluation",
+      "Overfitting",
+      "Generalization",
+      "Classification",
+      "Data Preprocessing",
+      "Class Imbalance"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_5.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "        Q-2. Do as directed. (A) Discuss how Support Vector Machine can be used for binary CO2 classification. BL2 (B) Generate box plot for the values of the attribute \u2018Test score\u2019 given in the CO1 table and discuss how can outliers be detected using box plot? BLS [o fio [vo [va fon, OR (B) Consider the following data given in the table and do the following. Col BL3                             lacs Page 1 of 3 [18] (6) (6) (6)",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_1_2__q_2_do_as_directed_.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "SVM",
+      "Data Preprocessing",
+      "Data Visualization",
+      "Outlier Detection",
+      "Box Plot"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_5.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "Q-3. (A) CO2 BL3 (B) CO2 BL3 Do as directed. To build the decision tree for the data given in the following table, find the best attribute for the root node using Information Gain as the purity measure. Note: attribute \u201cLoan-risk\u201d is the class label. Don\u2019t create the full decision tree. Find only the root node. Age Employment | Income- Pension- Loan-risk per-month plan 20-34 SOK-69K 35-50 SOK-69K 35-50 70K-89K                         20-34 SOK-69K 70K-89K High O     N 20-34 70K-89K Low Consider the training data shown in the table of Question-3(A). The data tuples are described by the attributes: age, employment, Income-per- month and Pension-plan. The class-label attribute: Loan-risk has two distinct values {High/Low}. Predict the class of the following tuple X using naive-Bayes classification. Show all the computation steps.    Salaried       X = fage=51+, employment=self, Income-per-month=50K-69K, pension- plan=No}. SECTION - II Do as directed. Differentiate between Model accuracy and Error rate of the model. What is Artificial neural network (ANN)? Explain the single-layer feed forward architecture of ANN with suitable diagram. While predicting win-loss of teams in World Cup Football using a classification model. Following are the data recorded and consider class wins as positive class and losses as negative class. Page 2 of 3 [16] (8) (8) (6)",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_2_0_q_3_a_co2_bl3_b_co2_bl3_d.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "Decision Trees",
+      "Information Gain",
+      "Entropy",
+      "Naive Bayes",
+      "Evaluation Metrics",
+      "Accuracy",
+      "Neural Networks",
+      "Feed-forward"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_5.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2022",
+    "question_text": "CO2 BL3 0.83, 1.0}. Assume that first three patterns belong to class O (with desired output 0) and remaining patterns belong to class 1 (with desired output 1). Design a perceptron to classify these patterns. Use perceptron learning rule. Given learning rate = 0.1 and initial weight and bias is (-0.4) and (-0.1) respectively. Show computation for one epoch.   Page 3 of 3",
+    "image_path": "question_bank_ocr/images/2022_MachineLearning_3_0_co2_bl3_0_83_1_0_assume_tha.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "Neural Networks",
+      "Perceptron",
+      "Learning Rule"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2022_5.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Roll / B. Tech. in Computer Science and Engineering, Semester-V 2CS501-O Machine Learning Supervisor\u2019s initial Exam No. with date Time: 3 Hours Max. Marks: 100 Instructions: 1. Attempt all questions.",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_0_roll_b_tech_in_computer_sc.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "2. Figures to the right indicate full marks.",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_1_2_figures_to_the_right_indica.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "3. Assume suitable assumptions and specify them.",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_2_3_assume_suitable_assumptions.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "4. Section-wise separate answer book to be used. Section - I",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_3_4_section_wise_separate_answe.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Q-1. A C03,BL4 Do as directed. [16] Consider the following feed-forward neural network. [08] < @) Om Input Weight  ",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_4_q_1_a_c03_bl4_do_as_directed_.png",
+    "topics": [
+      "Supervised Learning",
+      "Neural Networks",
+      "Feed-forward",
+      "Backpropagation"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "CO3,BL1 CO3,BL4 0.35 0.9 | o4 [| 08 [| 06 | 03 | 09 | Assume that the neurons have a sigmoid activation function, perform a forward pass and a backward pass on the network. Assume that the actual output y is 0.5 and the learning rate is 1. What is the need of pre-processing of the given data? How it improves [08] accuracy, efficiency and scalability of classification/Regression. Give a suitable example.   OR Answer the following question based on a self-organising map neural network. [08] Let the training set T consist of six 3-dimensional vectors, il to i6. T={il=(1.1,1.7,1.8),i2=(0,0,0),i3=(0,0.5,1.5),i4=(1,0,0),i5=(0.5,0.5,0.5),i6=(1,1, 1). There are three Neurons in the output layer: A, B, C. The Connection strengths (weights) are initially chosen randomly, and are given by the weight matrix wi: 0.2 0.7 03 W(0) = (va 0.1 0.1 08) w3: 1 1 1 For D(t)=1, learning rate n = 0.5. For each sample presented show the winner node till t=6. Also show the weight matrix for each input. (Show all the calculations using squared Euclidean distance)",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_5_co3_bl1_co3_bl4_0_35_0_9_o4_.png",
+    "topics": [
+      "Supervised Learning",
+      "Neural Networks",
+      "Feed-forward",
+      "Backpropagation",
+      "Activation Function",
+      "Data Preprocessing",
+      "Unsupervised Learning",
+      "SOM",
+      "Competitive Learning",
+      "Clustering",
+      "Euclidean Distance"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Q-2. A Answer the following. [14] What is Normal Equation? Where will it be useful? [O05] OR Page 1 of 3",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_6_q_2_a_answer_the_following_.png",
+    "topics": [
+      "Supervised Learning",
+      "Regression",
+      "Optimization",
+      "Normal Equation"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "[20] Q-3. Do as directed. [20] A CO3,BL4   Fit a first-order regression model to the data (y = BO + f1x). Estimate parameters of the model (80 and \u00a31) through one epoch (one complete pass through the training set) of batch gradient descent and stochastic gradient descent assuming learning rate = 0.01. Assume the initial value of BO and #1 to be 1 and 4, respectively. The loss function is (1/2)*(mean squared error) Section -\u2014 II",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_2_0__20_q_3_do_as_directed_20_.png",
+    "topics": [
+      "Supervised Learning",
+      "Regression",
+      "Linear Regression",
+      "Optimization",
+      "Gradient Descent",
+      "Stochastic Gradient Descent",
+      "Loss Function"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Q-4. Do as directed. [18] A The model you have trained has a low bias and high variance. How would you [06] deal with it? Which cross-validation technique would you suggest for a time- series dataset and why? OR [06] Supervised learning is a learning algorithm paradigm where the model is given a labelled data and the outcome is a learned model. A user is training NB and Page 2 of 3",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_2_1_q_4_do_as_directed_18_a_th.png",
+    "topics": [
+      "Model Evaluation",
+      "Bias-Variance",
+      "Overfitting",
+      "Cross-Validation",
+      "Time Series",
+      "Supervised Learning",
+      "Naive Bayes"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Q-5. A CO3,BL4 Answer the following. [16] Use the k-means algorithm and Euclidean distance to cluster the following 8 [10] examples into 3 clusters: Al1=(2,10), A2=(2,5), A3=(8,4), A4=(5,8), AS=(7,5), A6=(6,4), A7=(1,2), A8=(4,9). Suppose that the initial seeds (centers of each cluster) are Al, A4 and A7. Run the k-means algorithm for 1 epoch only. At the end of this epoch show: 1. The new clusters (i.e. the examples belonging to each cluster)",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_3_0_q_5_a_co3_bl4_answer_the_foll.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Clustering",
+      "K-Means Clustering",
+      "Euclidean Distance"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "2. The centers of the new clusters",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_3_1_2_the_centers_of_the_new_clus.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Clustering",
+      "K-Means Clustering"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "3. Draw a 10 by 10 space with all the 8 points and show the clusters after the first epoch and the new centroids.",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_3_2_3_draw_a_10_by_10_space_with_.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Clustering",
+      "K-Means Clustering",
+      "Data Visualization"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "B CO1,BL1 B CO1,BL2 4. How many more iterations are needed to converge? Draw the result for each epoch. In semi-supervised learning, learning from labelled and unlabelled data which [06] techniques are used. Explain them in detail. OR Differentiate between supervised, unsupervised, semi-supervised and [06] reinforcement learning in detail.",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_3_3_b_co1_bl1_b_co1_bl2_4_how_man.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Clustering",
+      "K-Means Clustering",
+      "Semi-Supervised Learning",
+      "Supervised Learning",
+      "Reinforcement Learning"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Q-6. A CO2,BL4 B Do as directed. [16] Consider the training data shown in the below table. Predict the class of the [08] following tuple X using naive-Bayes classification using Gaussian Distribution. Show all the computation steps. X = {Height=6, Weight=130, Foot Size=?}. Gender | Height Ibs inches | Male | 6 | 180 | 12 | Female                                Assume 7 one-dimensional input patterns {0.0, 0.17, 0.33, 0.51, 0.67, 0.83, [08]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_3_4_q_6_a_co2_bl4_b_do_as_directe.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "Naive Bayes",
+      "Gaussian Naive Bayes"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "1.0}. Assume the first three patterns belong to class-0 (with desired output 0) and the remaining patterns belong to class-1 (with desired output 1). Design a perceptron to classify these patterns. Use the perceptron learning rule. Assume learning rate=0.1 and initial weight and bias to be (-0.4) and (-0.1), respectively. Show computation for one epoch. Page 3 of 3",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_3_5_1_0_assume_the_first_three_p.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "Neural Networks",
+      "Perceptron",
+      "Learning Rule"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_1.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Timez 3 Hrs   B. Tech. in CL / CH / ME / EE, Semester-V 2CSOES1-O Machine Learning Max. Marks: 100",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_0_timez_3_hrs_b_tech_in_cl_.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Instructions: 1. Attempt all questions.",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_1_instructions_1_attempt_all_q.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "2. Figures to right indicate full marks.",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_2_2_figures_to_right_indicate_f.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "3. Draw neat sketches wherever necessary.",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_3_3_draw_neat_sketches_wherever.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "4. Make suitable assumptions wherever necessary and specify them.",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_4_4_make_suitable_assumptions_w.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "S. Section-wise separate answer book should be used SECTION - I",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_5_s_section_wise_separate_answe.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Q.1 Do as directed [20]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_6_q_1_do_as_directed_20_.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "A. [CO1, BL2] (i) Describe the empirical, theoretical, and joint probability concepts with an example. (ii) Differentiate between (1) Classification and regression (2) Gradient descent and normal equation [10] .",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_7_a_co1_bl2_i_describe_the.png",
+    "topics": [
+      "Probability",
+      "Supervised Learning",
+      "Classification",
+      "Regression",
+      "Optimization",
+      "Gradient Descent",
+      "Normal Equation"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "B. [CO2, BL2] Explain the working of decision trees in terms of entropy, infor- mation gain, and Gini index with a suitable example. [10]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_8_b_co2_bl2_explain_the_work.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "Decision Trees",
+      "Entropy",
+      "Information Gain",
+      "Gini Index"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Q.2. Do as directed [20]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_9_q_2_do_as_directed_20_.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "A. [CO1, BL2] Illustrate the use of regularization with a suitable example. Explain L1 and L2 regularizations. [10]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_10_a_co1_bl2_illustrate_the_u.png",
+    "topics": [
+      "Model Evaluation",
+      "Regularization",
+      "L1 Regularization",
+      "L2 Regularization",
+      "Overfitting"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "B. [CO3, BL3] Discuss three types of Naive Bayes model with examples. For the dataset given below, predict whether golf will be played or not, given that the outlook is sunny, the temperature is mild, the humidity is normal, and the day is windy using Naive Bayes algorithm. Pegs | [10]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_1_11_b_co3_bl3_discuss_three_ty.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "Naive Bayes"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "B. [CO3, BL3] Discuss the logic behind choosing the optimal value of K in the KNN algorithm. For the dataset below, determine the weight for ID 11 using the KNN regressor algorithm. Consider the value of K = 3. ID |Height | 1 26 Ovid                            [10]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_2_0_b_co3_bl3_discuss_the_logi.png",
+    "topics": [
+      "Supervised Learning",
+      "K-NN",
+      "Regression",
+      "Model Selection",
+      "Hyperparameter Tuning"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Q.3 [CO3, BL3] Use linear SVM model to determine hyperplane equation using support vectors - S1 = (3,1), S2 = (3,-1), S3 = (6,1), S4 = (6,-1) SS = (1,0), S6 = (0,1), S7 = (0,-1), S8 = (-1,0) Here S1, S2, S3, S4 represent positive class and S5, S6, $7, S8 represent a negative class. SECTION II [10]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_2_1_q_3_co3_bl3_use_linear_svm_.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "SVM",
+      "Linear SVM",
+      "Hyperplane",
+      "Support Vectors"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Q.4 Do as directed [20]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_2_2_q_4_do_as_directed_20_.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "A. [CO1, BL2] Explain any four non-linear activation functions with a proper example. [10]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_2_3_a_co1_bl2_explain_any_four.png",
+    "topics": [
+      "Neural Networks",
+      "Activation Function",
+      "Deep Learning"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "B. [CO2, BL3] Consider a simple perceptron network. Suppose the weights corresponding to the two inputs have the following initial values: wl = 1.2, w2 = 0.6. Design perceptron to learn AND GATE and determine the final values of weights if the threshold = 1 and pear 2 3 [10]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_2_4_b_co2_bl3_consider_a_simpl.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "Neural Networks",
+      "Perceptron",
+      "Learning Rule"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Q.5 Do as directed [20]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_3_0_q_5_do_as_directed_20_.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "A. [CO1, BL2] Discuss various metrics on which classification methods can be evaluated. [10]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_3_1_a_co1_bl2_discuss_various_.png",
+    "topics": [
+      "Model Evaluation",
+      "Evaluation Metrics",
+      "Classification",
+      "Accuracy",
+      "Precision",
+      "Recall",
+      "F1-score"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "B. [CO2, List the steps required for the K-means clustering algorithm. Apply the K-means clustering algorithm and Euclidean distance to cluster the following 8 examples into 3 clusters: A1=(2,10), A2=(2,5), A3=(8,4), A4=(5,8), A5=(7,5), A6=(6,4), A7=(1,2), A8=(4,9). [10]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_3_2_b_co2_list_the_steps_requir.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Clustering",
+      "K-Means Clustering",
+      "Algorithm",
+      "Euclidean Distance"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2023",
+    "question_text": "Q.6 [CO1, BL2] Differentiate between the following (any 4). Clustering and classification . Bias and variance . Overfitting and underfitting . Bagging and boosting . Soft margin SVM and hard margin SVM . Decision tree and random forest Page 3/3 [10]",
+    "image_path": "question_bank_ocr/images/2023_MachineLearning_3_3_q_6_co1_bl2_differentiate_b.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Clustering",
+      "Supervised Learning",
+      "Classification",
+      "Model Evaluation",
+      "Bias-Variance",
+      "Overfitting",
+      "Underfitting",
+      "Ensemble Methods",
+      "Bagging",
+      "Boosting",
+      "SVM",
+      "Decision Trees",
+      "Random Forest"
+    ],
+    "source_pdf": "2CS501_Machine_Learning_2023_2.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2024",
+    "question_text": "B. Tech. in Computer Science and Engineering, Semester-V 3CS101CC24 Machine Learning Roll/ Supervisor\u2019s initial Exam No. with date Time: 3 Hours Max. Marks: 100 Instructions: 1. Attempt all questions.  ",
+    "image_path": "question_bank_ocr/images/2024_MachineLearning_1_0_b_tech_in_computer_science_a.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2024_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2024",
+    "question_text": "2. Figures to the right indicate full marks.",
+    "image_path": "question_bank_ocr/images/2024_MachineLearning_1_1_2_figures_to_the_right_indica.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2024_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2024",
+    "question_text": "3. Assume suitable assumptions and specify them.",
+    "image_path": "question_bank_ocr/images/2024_MachineLearning_1_2_3_assume_suitable_assumptions.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2024_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2024",
+    "question_text": "4. Section-wise separate answer book to be used. Section - I",
+    "image_path": "question_bank_ocr/images/2024_MachineLearning_1_3_4_section_wise_separate_answe.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2024_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2024",
+    "question_text": "Q-1. Using the Decision Tree classifier algorithm and the following training data, [18] find the class label for a test record {Outlook=Sunny, Temp= Hot, Humidity=Normal, Windy=True, Play=?}. Build the entire Decision tree by using Information Gain. Show all the steps.    ",
+    "image_path": "question_bank_ocr/images/2024_MachineLearning_1_4_q_1_using_the_decision_tree_c.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "Decision Trees",
+      "Information Gain",
+      "Entropy",
+      "Prediction"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2024_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2024",
+    "question_text": "Q-2. Do as directed. [16] A _ A healthcare diagnostic system is analyzing 800 patients. Among these, 500 [06] CO4BL3 Cases are genuinely healthy, and 300 cases are diseased, while 100 are mistakenly classified as healthy. Out of the healthy cases, 400 are correctly identified as healthy, while 100 are incorrectly classified as diseased. Construct a confusion matrix for the given data and compute precision, recall, and F-measure. Clearly outline the formulas used for each metric and present your step-by-step calculations. Page 1 of 3",
+    "image_path": "question_bank_ocr/images/2024_MachineLearning_1_5_q_2_do_as_directed_16_a___.png",
+    "topics": [
+      "Model Evaluation",
+      "Evaluation Metrics",
+      "Confusion Matrix",
+      "Precision",
+      "Recall",
+      "F1-score",
+      "Classification"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2024_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2024",
+    "question_text": "Q-3. CO3,BL4 Consider the following feed-forward neural network.     Assume that the neurons have a sigmoid activation function, perform forward pass and a backward pass on the network. Assume that the actu output y is 1 and the learning rate is 0.5. Section - II Do as directed. Answer the following question based on a simple competitive learning neural network. Let the training set T consist of six 3-dimensional vectors, il to i6. T=(i1=(1.1,1.7,1.8),i2=(0,0,0),i3=(0,0.5, 1.5),i4=(1,0,0),i5=(0.5,0.5,0.5),i6=(1, 1,1). There are three Neurons in the output layer: A, B, and C in the topology (A-B- [16] [18] [12]",
+    "image_path": "question_bank_ocr/images/2024_MachineLearning_2_0_q_3_co3_bl4_consider_the_foll.png",
+    "topics": [
+      "Supervised Learning",
+      "Neural Networks",
+      "Feed-forward",
+      "Backpropagation",
+      "Activation Function",
+      "Unsupervised Learning",
+      "Competitive Learning",
+      "SOM",
+      "Clustering"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2024_1.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2024",
+    "question_text": "C). The Connection strengths (weights) are initially chosen randomly and are given by the weight matrix wi: 0.2 0.7 0.3 W(0) = (2 0.1 0.1 03) 1 1 #1 Learning rate n = 0.5. For each sample presented, show the winner node till t=6. Show which output node is repeatedly activated by which input samples. (Show all the calculations using squared Euclidean distance) Compare and contrast Deep Learning and Machine Learning. Do as directed. Consider the following 1-D data {12,15,18,22,30,35,40}. Apply Agglomerative Hierarchical Clustering to determine the number of clusters with their members. Draw the entire Dendrogram. Discuss the reinforcement learning in detail. Page 2 of 3 [06] [12] [07] [05]",
+    "image_path": "question_bank_ocr/images/2024_MachineLearning_2_1_c_the_connection_strengths_.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Clustering",
+      "Hierarchical Clustering",
+      "Dendrogram",
+      "Deep Learning",
+      "Reinforcement Learning"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2024_1.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2024",
+    "question_text": "Q-6. CO3,BL4        Consider the data given in the following Advertising Budget (x) (in Lacs   Fit a first-order regression model to the data (y = BO + B1x). Estimate parameters of the model (80 and #1) through one epoch (one complete pass through the training set) of batch gradient descent and stochastic gradient descent assuming learning rate = 0.01. Assume the initial value of BO and #1 to be 2 and 3, respectively. The loss function is (1/2)*(mean squared error). Page 3 of 3",
+    "image_path": "question_bank_ocr/images/2024_MachineLearning_3_0_q_6_co3_bl4_consider_t.png",
+    "topics": [
+      "Supervised Learning",
+      "Regression",
+      "Linear Regression",
+      "Optimization",
+      "Gradient Descent",
+      "Stochastic Gradient Descent",
+      "Loss Function"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2024_1.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "- B. Tech. in Computer Science and Engineering, Semester-V",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_0__b_tech_in_computer_science.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "B. Tech. in CH / ME / EE / EC / EI, Semester-VI Bachelor of Commerce (Hons.), Semester-VI 3CS101CC24 Machine Learning         Roll / Supervisor\u2019s initial Exam No. with date Time: 3 Hours Max. Marks: 100   Instructions: 1, Attempt all questions.",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_1_b_tech_in_ch_me_ee_ec_.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "2. Figures to the right indicate full marks.",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_2_2_figures_to_the_right_indica.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "3. Assume suitable assumptions and specify them.",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_3_3_assume_suitable_assumptions.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "4. Section-wise separate answer book to be used. Section - I",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_4_4_section_wise_separate_answe.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "Q-1. Answer the following. [16]",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_5_q_1_answer_the_following_16.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "A. Discuss simple competitive learning neural networks and self-organizing maps [08] in detail. Compare and contrast self organizing maps with ANN.",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_6_a_discuss_simple_competitive_.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Neural Networks",
+      "Competitive Learning",
+      "SOM"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "B. Discuss the semi-supervised learning in detail. Discuss in detail about [08] Learning from labeled and unlabeled Data in the context of semi-supervised learning.",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_7_b_discuss_the_semi_supervised.png",
+    "topics": [
+      "Semi-Supervised Learning",
+      "Supervised Learning",
+      "Unsupervised Learning"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "Q-2. Do as directed. [18] a cybersecurity system analyzing a dataset of 920 network activities. [07] \u201c#813 Among these, 600 activities are deemed safe, while 320 activities are flagged as potentially malicious. Out of the flagged activities, 180 are correctly identified as malicious, while 140 are incorrectly labeled as safe. Moreover, 480 safe activities are correctly identified, while 120 are mistakenly classified as potentially malicious. Construct a confusion matrix for the given data and compute precision, recall, and F-measure. Clearly outline the formulas used for each metric and present your step-by-step calculations. Consider the following positive data points {(4,1), (4,-1), (6,0} and negative [07] data points {(1,0), (0,1), (0,-1), (-1,0)}. Use linear SVM function to find hyperplane equation. C Discuss the need of normalization. Explain min-max normalization with [04] suitable example.",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_8_q_2_do_as_directed_18_a_cy.png",
+    "topics": [
+      "Model Evaluation",
+      "Evaluation Metrics",
+      "Confusion Matrix",
+      "Precision",
+      "Recall",
+      "F1-score",
+      "Classification",
+      "Supervised Learning",
+      "SVM",
+      "Linear SVM",
+      "Hyperplane",
+      "Data Preprocessing",
+      "Normalization",
+      "Scaling"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "Q-3. For the following neural network to be used for a binary classification task, [16] B14 the terminologies are as follows: e Xi -> the value of it input feature e Wij -> the weight associated with the connection from neuron i to neuron j in the next layer \u00a2 @j-> bias of the it neuron Y-> actual output for a given input example \u00a2 Y_hat-> prediction from the network for the input example Page 1 of 3",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_9_q_3_for_the_following_neural_.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "Neural Networks"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "Q.4. Using the Decision Tree classifier algorithm and the following training data, [18] find the class label for a test record X. X={Fever=Yes, Cough=No, Breathing issues=YES, Infected=?}. Build the entire Decision tree by using Information Gain. Show all the steps.     ",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_2_0_q_4_using_the_decision_tree_c.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "Decision Trees",
+      "Information Gain",
+      "Entropy",
+      "Prediction"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "Q-5. Consider the following 2-D data A(2,6) B(3,4) C(3,8) D(4,7) E(6,2) F(6,4). Use [12] the k-means algorithm on given two-dimensional dataset to construct two clusters. Execute the algorithm for two iterations using Euclidean distance and consider A and C as initial seeds. Page 2 of 3",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_2_1_q_5_consider_the_following_2_.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Clustering",
+      "K-Means Clustering",
+      "Euclidean Distance"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "Q.6. Do as directed. [20]",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_3_0_q_6_do_as_directed_20_.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "A. Apply Gaussian naive Bayes classifier on following dataset to predict the class [10] abel for a new observation 1 (5.4, 3.1).                                       Observation | Feature 1 Feature2_| Class Label (C) | 1 5.1 _| 3.5 | A 3 <a} \u2014 . . __| 4 5.6 3.0 A 5 59 32 B 1 6 5.0 3.1 A 7 60 B = 8 5.5 35 | A 9 6.3 3.1 B 10 5.2 3.0 A  ",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_3_1_a_apply_gaussian_naive_bayes_.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "Naive Bayes",
+      "Gaussian Naive Bayes",
+      "Prediction"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "B. Consider the following initial set-up for Q-Learning. Answer the following [10] questions considering the Gamma=0.8.",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_3_2_b_consider_the_following_init.png",
+    "topics": [
+      "Reinforcement Learning",
+      "Q-Learning"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "1. Create Q and R Matrix.",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_3_3_1_create_q_and_r_matrix_.png",
+    "topics": [
+      "Reinforcement Learning",
+      "Q-Learning"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "2. Consider that you are at state 1 and you want to reach to state 5 (Action). Modify the Q and R matrix after the Q(1,5) (Episode-1).",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_3_4_2_consider_that_you_are_at_st.png",
+    "topics": [
+      "Reinforcement Learning",
+      "Q-Learning"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "3. Consider that you are at state 3 and you want to reach to state 1 (Action). Modify the Q and R matrix after the Q(3,1) (Episode-2), oN       mo! \u00b0 100\u201c. = \u00a5 ey, Go ~~ (2): 3 100 5 ) Goal State See\u201d G 100_-   | 0 ly a Page 3 of 3",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_3_5_3_consider_that_you_are_at_st.png",
+    "topics": [
+      "Reinforcement Learning",
+      "Q-Learning"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_1.pdf",
+    "page": 3
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "B. Tech. in Computer Science and Engineering, Semester-V Int. B. Tech. (CSE) - MBA, Semester-V 3CS101CC24 Machine Learning Roll / Supervisor\u2019s initial Exam No. with date Instructions: 1. Attempt all questions. Time: 3 Hours Max. Marks: 100",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_0_b_tech_in_computer_science_a.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "| 2. Figures to the right indicate full marks.",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_1__2_figures_to_the_right_indi.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "3. Assume suitable assumptions and specify them.",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_2_3_assume_suitable_assumptions.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "4. Section-wise separate answer book to be used. Section - I -1. Consider the data given in the following table. 4_Wheeler_Passenger_Vehicle_Sale (in | 6.3 | | |                     [20]",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_3_4_section_wise_separate_answe.png",
+    "topics": [
+      "General",
+      "Regression"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "7.0 7.0 Fit a first-order regression model to the data (y = BO + Estimate parameters of the model (80 and #1) through one epoch (one complete pass through the training set) of batch gradient descent and stochastic gradient descent, assuming learning rate = 0.01. Assume the initial value of BO and to be 2 and 5, respectively. The loss function is (1/2)*(mean squared error).",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_4_7_0_7_0_fit_a_first_order_regr.png",
+    "topics": [
+      "Supervised Learning",
+      "Regression",
+      "Linear Regression",
+      "Optimization",
+      "Gradient Descent",
+      "Stochastic Gradient Descent",
+      "Loss Function"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "Q-2. Do as directed. [15]",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_5_q_2_do_as_directed_15_.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "A) Discuss simple competitive learning neural network and self organizing maps in detail. Compare and contrast self organizing maps with ANN. CO3,BL2 [09]",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_6_a_discuss_simple_competitive_.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Neural Networks",
+      "Competitive Learning",
+      "SOM"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "B) Discuss the bootstrap method in detail with an example. CO2,BL2 [06]",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_7_b_discuss_the_bootstrap_metho.png",
+    "topics": [
+      "Ensemble Methods",
+      "Bagging",
+      "Bootstrap",
+      "Model Evaluation",
+      "Resampling"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "Q-3. Answer the following. [15]",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_8_q_3_answer_the_following_15.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "A) Explain techniques for learning from labelled and unlabelled data in semi-supervised learning. [08]",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_9_a_explain_techniques_for_lear.png",
+    "topics": [
+      "Semi-Supervised Learning",
+      "Supervised Learning",
+      "Unsupervised Learning"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "B) Both k-means hierarchical clustering algorithms can perform effective clustering. Illustrate the strengths and weaknesses of these CO3,BL4 algorithms. Write algorithms for k-means clustering. Section -\u2014 II [07]",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_10_b_both_k_means_hierarchical_c.png",
+    "topics": [
+      "Unsupervised Learning",
+      "Clustering",
+      "K-Means Clustering",
+      "Hierarchical Clustering",
+      "Algorithm"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "Q-4. Do as directed. [12]",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_11_q_4_do_as_directed_12_.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "A) What is SVM? Explain it in detail. Discuss different types of kernels in 002,BL1_ SVM in detail. [06]",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_12_a_what_is_svm_explain_it_in_.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "SVM",
+      "Kernels"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "B) What is Normal Equation? Where will it be useful? CO1,BL1 Page 1 of 2 [06]",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_1_13_b_what_is_normal_equation_wh.png",
+    "topics": [
+      "Supervised Learning",
+      "Regression",
+      "Optimization",
+      "Normal Equation"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 1
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "Q-5. - Do as directed. [18]",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_2_0_q_5_do_as_directed_18_.png",
+    "topics": [
+      "General"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "A) CO1,BL2 What is perceptron? Explain how it works. Also, explain the perceptron [08] learning rule with an appropriate example.",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_2_1_a_co1_bl2_what_is_perceptron_.png",
+    "topics": [
+      "Supervised Learning",
+      "Classification",
+      "Neural Networks",
+      "Perceptron",
+      "Learning Rule"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 2
+  },
+  {
+    "subject": "Machine Learning",
+    "year": "2025",
+    "question_text": "B) CO2,BL4 Consider the following feed-forward neural network. [10]    Assume that the neurons have a sigmoid activation function, perform a forward pass and a backward pass on the network. Assume that the actual output y is 0.7 and the learning rate is 1. Using the Decision Tree classifier algorithm and the following training [20] data, find the class label for a test record {Credit Score=Medium, Income Level=High, Loan Amount=Low, Debt=Medium, Approved=?}. Build the entire Decision tree by using Information Gain. Credit | Income Loan Score Level Amount High              i | High | | No |         Page 2 of 2",
+    "image_path": "question_bank_ocr/images/2025_MachineLearning_2_2_b_co2_bl4_consider_the_follow.png",
+    "topics": [
+      "Supervised Learning",
+      "Neural Networks",
+      "Feed-forward",
+      "Backpropagation",
+      "Activation Function",
+      "Classification",
+      "Decision Trees",
+      "Information Gain",
+      "Entropy",
+      "Prediction"
+    ],
+    "source_pdf": "3CS101CC24_Machine_Learning_2025_2.pdf",
+    "page": 2
+  }
+]
